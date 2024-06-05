@@ -4,7 +4,7 @@ Introduction:
 Let's dive into the realm of HR analytics using the Employee Dataset from Kaggle. This dataset encapsulates the essence of an organization, offering valuable insights into the trends, statistics, and attrition narratives of a vibrant workforce
 
 My Dashboard:
-img width="673" alt="HR Analytics" src="https://github.com/Bafnakb/HR_Analytics/assets/106813409/c45e3c9a-4ed0-4845-bbd0-819c647997bc"
+https://github.com/Bafnakb/HR_Analytics/assets/106813409/c45e3c9a-4ed0-4845-bbd0-819c647997bc
  
 
 As we explore this intricate data, we'll uncover the stories of the organization's attrition and its employee’s.
